@@ -16,7 +16,7 @@ namespace Tutorial_CSharp_WinForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmDay2());
         }
     }
 }
